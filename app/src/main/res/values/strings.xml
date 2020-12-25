@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">IM - FISHER</string>
+    <string name="title">IM FISHER</string>
+<!--    <string name="kosong"></string>-->
+    <string-array name="sound_ikan">
+        <item>Pilih Interval</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+    </string-array>
+
+    <string name="song_title1">Suara Ikan calling_female</string>
+    <string name="song_title2">Suara Ikan Croaker</string>
+    <string name="song_title3">Suara Ikan Grouper</string>
+    <string name="song_title4">Suara Ikan Grunts 1</string>
+    <string name="song_title5">Suara Ikan Grunts 2</string>
+    <string name="song_title6">Suara Ikan Scianidae 1</string>
+    <string name="song_title7">Suara Ikan Scianidae 2</string>
+    <string name="song_title8">Suara Ikan Scianidae 3</string>
+    <string name="song_title9">Suara Ikan Snapper</string>
+    <string name="song_title10">Suara Ikan Spawning</string>
+
+    <string name="tombol_play1">tombol_play1</string>
+    <string name="tombol_play2">tombol_play2</string>
+    <string name="tombol_play3">tombol_play3</string>
+    <string name="tombol_play4">tombol_play4</string>
+    <string name="tombol_play5">tombol_play5</string>
+    <string name="tombol_play6">tombol_play6</string>
+    <string name="tombol_play7">tombol_play7</string>
+    <string name="tombol_play8">tombol_play8</string>
+    <string name="tombol_play9">tombol_play9</string>
+    <string name="tombol_play10">tombol_play10</string>
+
+    <string name="gambar_ikan1">gambar_ikan1</string>
+    <string name="gambar_ikan2">gambar_ikan2</string>
+    <string name="gambar_ikan3">gambar_ikan3</string>
+    <string name="gambar_ikan4">gambar_ikan4</string>
+    <string name="gambar_ikan5">gambar_ikan5</string>
+    <string name="gambar_ikan6">gambar_ikan6</string>
+    <string name="gambar_ikan7">gambar_ikan7</string>
+    <string name="gambar_ikan8">gambar_ikan8</string>
+    <string name="gambar_ikan9">gambar_ikan9</string>
+    <string name="gambar_ikan10">gambar_ikan10</string>
+    <string name="now_playing1">Ikan Calling Female</string>
+    <string name="tombol_back">tombol_back</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="gambar_lagu">gambar_lagu</string>
+</resources>
